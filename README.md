@@ -1,11 +1,28 @@
-# 👋 Hi, I'm Rabi Ali (@RabiAli21)
+# 👋 Hi, I'm Rabi Ali
 
-- 👀 I'm interested in **Data Science** and **Artificial Intelligence**
-- 🌱 I'm currently learning **AI** and expanding my skills in **Machine Learning**
-- 💼 I'm actively looking for **Data Science** and **AI job opportunities**
-- 📫 Reach me at: **alirabi5931@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I love turning data into meaningful stories and solving real-world problems using AI!
+🎓 Data Science & AI Enthusiast | Aspiring Machine Learning Engineer  
+📍 Based in Jaipur | 🌐 Open to global remote roles
+
+---
+
+## 🚀 About Me
+
+- 👨‍💻 I'm passionate about **Data Science**, **Machine Learning**, and **Artificial Intelligence**
+- 📊 I enjoy solving real-world problems using **data-driven insights**
+- 🌱 Currently learning advanced concepts in **AI**, **Deep Learning**, and **MLOps**
+- 🤝 Looking for opportunities in **Data Science**, **AI/ML**, and **Research**
+- 📬 Reach me at: [alirabi5931@gmail.com](mailto:alirabi5931@gmail.com)
+
+---
+
+## 🛠️ Skills & Tools
+
+```python
+Languages     : Python, SQL
+Libraries     : Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn
+Tools/Platforms: Jupyter Notebook, Google Colab, Power BI, Git, GitHub
+Databases     : MySQL
+
 
 <!---
 RabiAli21/RabiAli21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
